@@ -87,8 +87,7 @@ namespace learn.infra.service
             List<Users_Task> users = new List<Users_Task>();
 
             string[] EmailDomain = { "@gmail.com", "@hotmail.com", "@yahoo.com" };
-            string[] Countries = { "Tafila", "Ma'an", "Aqaba", "Karak", "Madaba",
-                "Balqa","Zarqa", "Amman", "Ajloun", "Jerash", "Mafraq", "Irbid"};
+            string[] Countries = { "Amman", "Irbid", "Aqaba", "Karak", "Madaba","Zarqa", "Al-tafila", "Ajloun", "Jerash"};
             try
             {
 
